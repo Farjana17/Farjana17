@@ -1,4 +1,4 @@
-- Hi, I’m @Farjana17
+- Hi, I’m Farjana Ahmed.
 - I’m interested in Software Testing.
 - I’m currently learning Manual Testing and Automation Testing.
 - I’m looking to collaborate on Software Quality Assurance sector.
