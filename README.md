@@ -2,7 +2,7 @@
 - I’m interested in Software Testing.
 - I’m currently learning Manual Testing and Automation Testing.
 - I’m looking to collaborate on Software Quality Assurance sector.
-- To reach me,  email me at: farjanaahmed68@gmail.com
+- To reach me,  email me at: farjana.ahmed570@gmail.com
 
 <!---
 Farjana17/Farjana17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
